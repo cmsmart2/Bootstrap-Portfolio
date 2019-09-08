@@ -1,4 +1,4 @@
-header {
+#my_header {
     background-color: #ffffff;
     border-color: #cccccc;
     border-style: solid;
@@ -7,7 +7,7 @@ header {
     height: 80px
 }
 .navbar {
-    width: 960px;
+    /* width: 960px; */
     height: 100%;
     margin: 0 auto; 
     display: flex;
@@ -30,7 +30,7 @@ a:link {
     text-decoration: none;
   }
 
-h1{
+.my_logo{
     font-size: 30px;
     background-color: #4aaaa5;
     width: 200px;
@@ -38,7 +38,7 @@ h1{
     text-align: center;
     vertical-align: middle;
     font-family:'Georgia', Times, 'Times New Roman', serif;
-    display: inline-flex;
+    /* display: inline-flex; */
     padding: 20px;
     margin: 0; 
 }
